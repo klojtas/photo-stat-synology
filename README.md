@@ -1,0 +1,1 @@
+# photo-stat-synology
